@@ -11,8 +11,14 @@ public class App {
         char znak = 'a';
         String retazec = "abc";
 
+        int podiel = 2/3; // 0
+        System.out.println(podiel);
 
+        int poDeleni = 2%3; // 2
+        System.out.println(poDeleni);
 
+        float podielDesatinny = 2/3.0f; // 0.6666667
+        System.out.println(podielDesatinny);
 
 
     }
