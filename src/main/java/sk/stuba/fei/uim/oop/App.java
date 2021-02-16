@@ -20,6 +20,9 @@ public class App {
         float podielDesatinny = 2/3.0f; // 0.6666667
         System.out.println(podielDesatinny);
 
+        boolean pravda = true;
+        boolean nepravda = false;
+
 
     }
 }
